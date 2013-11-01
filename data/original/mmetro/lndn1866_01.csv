@@ -1,0 +1,2179 @@
+occupation	hisco	status	relation	product
+"proprietor of railway shares"	-1			
+"labourer's widow"	-1			
+"house proprieter"	-1			
+"in pensioner"	-1			
+"land proprietress"	-1			
+"beggar"	-1			
+"charterhouse pensioner"	-1			
+"navy pensioner"	-1			
+"government annuitant"	-1			
+"funded proprietor"	-1			
+"bank pensioner"	-1			
+"single woman"	-1			
+"annuitant"	-1			
+"pauper"	-1			
+"government pensioner"	-1			
+"orphan"	-1			
+"superannuated from post office"	-1			
+"gentlewoman"	-1			
+"proprietor of silver mines and mining engineer"	-1			
+"scavenger"	-1			
+"greenwich pensioner"	-1			
+"pensioner"	-1			
+"dock pensioner"	-1			
+"gentleman (deceased)"	-1			
+"e.i.c. pensioner"	-1			
+"proprietress of houses"	-1			
+"prisoner"	-1			
+"house proprietor"	-1			
+"proprietor of houses"	-1			
+"widow"	-1			
+"east india pensioner"	-1			
+"almsman"	-1			
+"esquire"	-1			
+"baronet, g.c.b."	-1			
+"van proprietor"	-1			
+"fund holder"	-1			
+"scholar of christ's hospital"	-1			
+"count"	-1			
+"out pensioner of chelsea hospital"	-1			
+"out pensioner greenwich hospital"	-1			
+"architect's pupil"	-1			
+"pupil at ufton house"	-1			
+"schoolboy"	-1			
+"out pensioner"	-1			
+"london dockyard apprentice"	-1			
+"lord, clerk in holy orders"	-1			
+"dockyard pensioner"	-1			
+"a foundling"	-1			
+"foundling"	-1			
+"almswoman"	-1			
+"pensioner e.i.c."	-1			
+"freeholder"	-1			
+"almsman, formerly coachman"	-1			
+"inmate"	-1			
+"fundholder"	-1			
+"gentleman"	-1			
+"independent"	-1			
+"landed proprieter"	-1			
+"knight, formerly lieut. colonel"	-1			
+"gentleman (d)"	-1			
+"student"	-1			
+"baronet"	-1			
+"tramp"	-1			
+"knight"	-1			
+"spinster"	-1			
+"wife of mexican minister"	-1			
+"customs pensioner"	-1			
+"chemist"	1110			
+"chemist's assistant"	1110			
+"astronomer"	1350			
+"gold and silver assayer"	1390			
+"chemist's laboratory man"	1400			
+"distiller's chemist"	1400			
+"chemist's man"	1400			
+"demonstrator of chemistry"	1420			
+"architect"	2120			
+"architect and surveyor"	2120			
+"civil engineer"	2210			
+"mechanical engineer"	2410			
+"district surveyor"	3010			
+"land surveyor"	3020			
+"draughtsman"	3110			
+"draftsman"	3110			
+"lithographic draughtsman"	3180			
+"lithographic artist"	3180			
+"navigator"	4140			
+"master of ship palmerston"	4215			
+"master r.n."	4215			
+"master mariner"	4215			
+"barge master"	4220			
+"chief mate in steamship"	4230			
+"ship's mate"	4230			
+"shipmaster"	4270			
+"coasting pilot"	4290			
+"pilot"	4290			
+"engineer of vessel"	4320			
+"engineer r.n."	4320			
+"engineer on steam vessel"	4320			
+"engineer of steam vessel"	4320			
+"m.d."	6105			
+"medical practitioner"	6105			
+"physician"	6105			
+"doctor of medicine"	6105			
+"surgeon, f.r.c.s."	6110			
+"formerly surgeon in east india company's service"	6110			
+"army surgeon"	6110			
+"surgeon"	6110			
+"dentist"	6310			
+"surgeon dentist"	6310			
+"veterinary surgeon"	6510			
+"veterinary surgeon's assistant"	6610			
+"dispenser of medicines"	6710			
+"chemist and druggist"	6710			
+"workhouse nurse"	7110			
+"nurse"	7110			
+"formerly nurse"	7110			
+"hosptial nurse"	7110			
+"hospital nurse"	7110			
+"nurse in cholera hospital"	7120			
+"monthly nurse"	7190			
+"optician"	7530			
+"indian ayah or nurse"	7710			
+"keeper at hoxton house lunatic asylum"	7990			
+"superintendent of temporary cholera hospital, new street, bishopsgate"	7990			
+"quack doctor"	7990			
+"herbalist"	7990			
+"accountant"	11010			
+"barrister at law"	12110			
+"writer"	12110			
+"lawyer"	12110			
+"attorney"	12110			
+"solicitor (retired)"	12110			
+"writer and grainer"	12110			
+"barrister"	12110			
+"serjeant at law"	12110			
+"solicitor"	12110			
+"law writer"	12110			
+"judge of admiralty of barbados, deceased"	12210			
+"american judge"	12210			
+"beadle"	12910			
+"music teacher"	13000			
+"private tutor"	13000			
+"drill instructor"	13000			
+"pupil teacher"	13020			
+"schoolmistress"	13020			
+"school master"	13020			
+"schoolmaster"	13020			
+"teacher"	13020			
+"professor of chemistry"	13120			
+"professor of mathematics"	13140			
+"professor of languages"	13170			
+"professor of music"	13190			
+"professor of drawing"	13190			
+"teacher of languages"	13215			
+"teacher of music"	13250			
+"governess"	13960			
+"late governess"	13960			
+"independent minister"	14120			
+"hebrew minister"	14120			
+"clergyman"	14120			
+"clerk in orders"	14120			
+"clerk in holy orders"	14120			
+"calvinist minister"	14120			
+"congregational minister"	14120			
+"rector of alhallows, staining"	14120			
+"dissenting minister"	14120			
+"city missionary"	14130			
+"missionary"	14130			
+"sister of the order of the sacred heart"	14140			
+"under beedle"	14990			
+"scripture reader"	14990			
+"literary author"	15120			
+"literary man"	15900			
+"journalist"	15915			
+"editor"	15920			
+"sub editor of army and navy gazette"	15920			
+"newspaper editor"	15920			
+"reporter"	15930			
+"sculptor"	16120			
+"formerly a sculptor"	16120			
+"artist in oil"	16130			
+"pavement landscape painter"	16130			
+"animal painter"	16130			
+"landscape painter"	16130			
+"artist in water colours"	16130			
+"portrait painter"	16130			
+"marine artist"	16130			
+"painter and glazier"	16130			
+"seal engraver"	16150			
+"artist in wood"	16190			
+"pattern designer"	16240			
+"photographer"	16310			
+"photographic artist"	16390			
+"artist"	17000			
+"theatrical"	17000			
+"composer"	17120			
+"pianist"	17140			
+"organist"	17140			
+"irish piper"	17140			
+"fiddler"	17140			
+"organ player"	17140			
+"street musician"	17140			
+"bandsman"	17140			
+"musician"	17140			
+"vocalist"	17145			
+"dancing master"	17230			
+"actor"	17320			
+"stage manager"	17490			
+"comedian"	17990			
+"equestrian"	18020			
+"riding master"	18090			
+"relieving officer"	19320			
+"underwriter"	19950			
+"shipping agent"	19990			
+"superannuated officer in the court of chancery"	20110			
+"chief registrar of court of bankruptcy"	20210			
+"public record officer"	20210			
+"registrar"	20210			
+"sheriff's officer"	20210			
+"sheriff's officer's assistant"	20210			
+"civic functionary"	20210			
+"manager"	21000			
+"manufacturing goldsmith"	21110			
+"cotton manufacturer"	21110			
+"publisher"	21110			
+"pin manufacturer"	21110			
+"spiral spill manufacturer"	21110			
+"portfolio manufacturer"	21110			
+"colour manufacturer"	21110			
+"mill stone manufacturer"	21110			
+"pianoforte manufacturer"	21110			
+"cabinet manufacturer"	21110			
+"assistant to a pickle manufacturer"	21110			
+"isinglass manufacturer"	21110			
+"floorcloth manufacturer"	21110			
+"lace manufacturer"	21110			
+"woollen cloth manufacturer"	21110			
+"hairpin manufacturer"	21110			
+"glass manufacturer"	21110			
+"fringe manufacturer"	21110			
+"soap manufacturer"	21110			
+"glove manufacturer"	21110			
+"manufacturer of fancy goods"	21110			
+"tobacco manufacturer"	21110			
+"perambulator manufacturer"	21110			
+"neats foot oil manufacturer (master)"	21110			
+"sauce manufacturer"	21110			
+"horsehair manufacturer"	21110			
+"compostion manufacturer"	21110			
+"wool merchant"	21110			
+"book publisher"	21110			
+"range manufacturer"	21110			
+"spruce merchant"	21110			
+"lime light manufacturer"	21110			
+"gutta percha manufacturer"	21110			
+"publican's manager"	21220			
+"office manager"	21220			
+"ironmaster"	21220			
+"cheesemonger's manager"	21220			
+"warehouse manager"	21220			
+"manager of sawmill"	21220			
+"machinist manager"	21220			
+"glass dealer's manager"	21220			
+"manager to wine merchant"	21220			
+"water proofer's manager"	21220			
+"manager of galvanized iron works"	21220			
+"manager at india rubber works"	21220			
+"manager of glass works"	21220			
+"formerly manager at a wharf"	21220			
+"manager of mines"	21220			
+"insurance manager"	21220			
+"contractor"	21240			
+"railway contractor"	21240			
+"dust contractor"	21240			
+"brick contractor"	21240			
+"secretary at an insurance office"	21940			
+"booking office keeper"	21940			
+"formerly secretary to the london mechanics institution"	21940			
+"workhouseman"	21940			
+"secretary to a society"	21940			
+"office keeper"	21940			
+"inspector at london docks"	22000			
+"inspector of works"	22000			
+"sub inspector of sewers"	22000			
+"surveyor"	22000			
+"cotton looker"	22000			
+"cask inspector"	22000			
+"superintendent of stores"	22000			
+"secretary"	22110			
+"meter inspector"	22200			
+"railway station master"	22210			
+"railway servant"	22210			
+"station master"	22210			
+"postmaster (r)"	22220			
+"railway inspector"	22240			
+"railway carriage examiner"	22240			
+"cab master"	22290			
+"piermaster"	22290			
+"wharfinger"	22290			
+"dockyard officer"	22290			
+"superintendent of soup kitchen"	22425			
+"retired housekeeper"	22425			
+"cook and housekeeper"	22425			
+"housekeeper"	22425			
+"formerly housekeeper"	22425			
+"steward"	22440			
+"house steward"	22440			
+"formerly a butler"	22490			
+"butler"	22490			
+"foreman ironworks"	22610			
+"brickmakers foreman"	22610			
+"painter's foreman"	22610			
+"timber merchant's foreman"	22610			
+"ganger, bridge works"	22610			
+"sheep foreman"	22610			
+"dust contractor's foreman"	22610			
+"foreman at gasworks"	22610			
+"foreman in the london docks"	22610			
+"foreman of vintners porters"	22610			
+"bricklayer's foreman"	22610			
+"coal wharf foreman"	22610			
+"slater's foreman"	22610			
+"foreman to sheepwash manufacturer"	22610			
+"dock foreman"	22610			
+"silversmith (foreman)"	22610			
+"foreman at a timber yard"	22610			
+"wharf foreman"	22610			
+"wine merchant's foreman"	22610			
+"foreman royal arsenal"	22610			
+"foreman at shot factory"	22610			
+"printseller"	22610			
+"foreman to hop merchant"	22610			
+"foreman, lime works"	22610			
+"tailors foreman"	22610			
+"coal merchant's foreman"	22610			
+"foreman at sack warehouse"	22610			
+"foreman (livery stable)"	22610			
+"foreman to china dealer"	22610			
+"foreman in east and west india docks"	22610			
+"jobmaster's foreman"	22610			
+"foreman asphalte works"	22610			
+"foreman at animal charcoal works"	22610			
+"foreman at a wharf"	22610			
+"foreman of contract horses"	22610			
+"foreman in dustyard"	22610			
+"brickmaker (foreman)"	22610			
+"contractor's foreman"	22610			
+"tea dealer's foreman"	22610			
+"foreman of sailmakers"	22610			
+"dock ganger"	22610			
+"bank manager"	22620			
+"manager of a bank"	22620			
+"fish inspector"	22665			
+"builder's foreman"	22675			
+"printer's superintendent"	22690			
+"clerk to burial board"	30000			
+"merchant's clerk"	30000			
+"commercial clerk"	30000			
+"office boy"	30000			
+"clerk of the works"	30000			
+"surveyor's clerk"	30000			
+"government clerk"	30000			
+"merchants clerk"	30000			
+"registrar to public company"	30000			
+"retired officer (inland revenue)"	31000			
+"vice consul"	31000			
+"ward collector"	31020			
+"rate collectore"	31020			
+"tax collector"	31020			
+"officer of inland revenue"	31030			
+"superannuated officer inland revenue"	31030			
+"late controller of h.m. customs"	31040			
+"excise officer"	31040			
+"custom's officer"	31040			
+"custom house officer"	31040			
+"out door officer, customs"	31040			
+"customs' officer"	31040			
+"customs officer"	31040			
+"custom house agent"	31040			
+"deputy lieutenant county of caithness"	31090			
+"short hand writer"	32130			
+"shorthand writer"	32130			
+"book keeper"	33110			
+"assistant paymaster, r.n."	33110			
+"formerly a book keeper"	33110			
+"bookkeeper"	33110			
+"cashier"	33135			
+"toll collector"	33160			
+"turnpike toll collector"	33160			
+"post office clerk"	33170			
+"clerk in the post office"	33170			
+"engineer's clerk"	33910			
+"accountants clerk"	33940			
+"formerly clerk in the london and westminster bank"	33940			
+"banker's clerk"	33940			
+"bullion clerk"	33940			
+"insurance clerk"	33940			
+"clerk in bank"	33940			
+"clerk in insurance office"	33940			
+"revenue clerk"	33940			
+"bankers clerk"	33940			
+"clerk to colonial broker"	33940			
+"clerk in assurance office"	33940			
+"bank clerk"	33940			
+"accountant's clerk"	33940			
+"timekeeper"	33990			
+"builder's timekeeper"	33990			
+"collector"	33990			
+"omnibus timekeeper"	33990			
+"brewer's collector"	33990			
+"ticket collector"	36000			
+"check taker at tea gardens"	36000			
+"railway ticket collector"	36020			
+"railway ticket examiner"	36020			
+"railway ticket inspector"	36020			
+"omnibus conductor"	36040			
+"public carriage attendant"	36090			
+"post office officer"	37000			
+"sorter in post office"	37020			
+"letter sorter"	37020			
+"letter carrier"	37030			
+"postman"	37030			
+"errand boy"	37040			
+"civil service messenger"	37040			
+"tax office messenger"	37040			
+"courier"	37040			
+"dock messenger"	37040			
+"messenger at british museum"	37040			
+"sessions messenger"	37040			
+"carriers messenger"	37040			
+"grocer's errand boy"	37040			
+"messenger"	37040			
+"messenger (deceased)"	37040			
+"board of trade messenger"	37040			
+"telegraph clerk"	38040			
+"mercantile clerk"	39110			
+"railway goods checker"	39130			
+"storekeeper"	39140			
+"storekeeper at gasworks"	39140			
+"warehouse keeper in london docks"	39140			
+"ham and beef warehousekeeper"	39140			
+"coalmeter's man"	39150			
+"coal weigher"	39150			
+"weigher at coal depot"	39150			
+"clerk, war office"	39310			
+"inland revenue clerk"	39310			
+"shipping clerk"	39310			
+"brewery clerk"	39310			
+"clerk (deceased)"	39310			
+"brewer's clerk"	39310			
+"hosier's clerk"	39310			
+"clerk in admiralty office"	39310			
+"wharf clerk"	39310			
+"clerk at newspaper office"	39310			
+"clerk"	39310			
+"clerk in customs"	39310			
+"wharfinger's clerk"	39310			
+"customs clerk"	39310			
+"builders clerk"	39310			
+"office clerk"	39310			
+"clerk (customs)"	39310			
+"carrier's clerk"	39310			
+"clerk in commander in chief's office"	39310			
+"clerk at brewery"	39310			
+"custom house clerk"	39310			
+"builder's clerk"	39310			
+"clerk at gassworks"	39310			
+"law stationer's clerk"	39310			
+"hotel clerk"	39310			
+"clerk to meat salesman"	39310			
+"dock clerk"	39310			
+"law clerk"	39340			
+"solicitor's clerk"	39340			
+"process server"	39340			
+"barrister's clerk"	39340			
+"lawyer's clerk"	39340			
+"clerk to queen's counsel"	39340			
+"county court clerk"	39340			
+"judge's clerk"	39340			
+"notary's clerk"	39340			
+"barristers clerk"	39340			
+"clerk in county court"	39340			
+"solicitors clerk"	39340			
+"auctioneer's clerk"	39390			
+"clerk in general register office"	39920			
+"printer's reader"	39940			
+"station clerk blackwell railway"	39960			
+"railway clerk"	39960			
+"parish clerk"	39990			
+"ticket writer"	39990			
+"wholesale ironmonger"	41020			
+"bladder dealer"	41020			
+"corn merchant"	41020			
+"chandler (master)"	41020			
+"artist colorman"	41020			
+"iron dealer"	41020			
+"hop merchant"	41020			
+"mininig broker"	41020			
+"drug broker"	41020			
+"fruit broker"	41020			
+"ship broker"	41020			
+"oil and colourman"	41020			
+"provision broker"	41020			
+"lead merchant"	41020			
+"ship chandler"	41020			
+"pig dealer"	41020			
+"chandler"	41020			
+"fish factor"	41020			
+"wax chandler"	41020			
+"colourman"	41020			
+"fruit dealer"	41020			
+"wholesale hosier"	41020			
+"cloth merchant"	41020			
+"cornchandler"	41020			
+"cattle dealer"	41020			
+"colonial and metal broker"	41020			
+"shipbroker"	41020			
+"print colourer"	41020			
+"furniture broker"	41020			
+"oil broker"	41020			
+"wholesale milliner"	41020			
+"corn chandler"	41020			
+"colonial broker"	41020			
+"fruit merchant"	41020			
+"artist's colourman"	41020			
+"oil and colour man"	41020			
+"clothes dealer"	41025			
+"timber merchant"	41025			
+"horsedealer"	41025			
+"cheesemonger's assystant"	41025			
+"retired cheesemonger"	41025			
+"mustard merchant"	41025			
+"dealer"	41025			
+"cigar dealer"	41025			
+"catmeat dealer"	41025			
+"provision dealer"	41025			
+"tea dealer and grocer"	41025			
+"pickle merchant"	41025			
+"picture dealer"	41025			
+"wine seller"	41025			
+"egg merchant"	41025			
+"tool dealer"	41025			
+"butter dealer"	41025			
+"corn dealer"	41025			
+"dealer in woollen cuttings, &c"	41025			
+"merchant"	41025			
+"dealer in marine stores"	41025			
+"oil lamp dealer"	41025			
+"dealer in fat"	41025			
+"dutch merchant"	41025			
+"fish dealer"	41025			
+"marine storedealer"	41025			
+"cheesemonger's assistant"	41025			
+"toy dealer"	41025			
+"marine store dealer"	41025			
+"orange merchant"	41025			
+"parchment dealer"	41025			
+"cigar merchant"	41025			
+"ostrich feather merchant"	41025			
+"wine merchant"	41025			
+"poulterer"	41025			
+"glass dealer"	41025			
+"dealer in catsmeat"	41025			
+"dealer in paraffin oil and lamps"	41025			
+"coal dealer"	41025			
+"china dealer's assistant"	41025			
+"fire wood dealer"	41025			
+"dealer in fancy goods"	41025			
+"earthenware dealer's assistant"	41025			
+"coke dealer"	41025			
+"tea taster and buyer"	41025			
+"furniture dealer"	41025			
+"glass merchant"	41025			
+"lace merchant"	41025			
+"tea dealer"	41025			
+"tallow chandler"	41025			
+"dealer in building materials"	41025			
+"alum merchant"	41025			
+"corndealer"	41025			
+"tallowchandler"	41025			
+"coal merchant"	41025			
+"bird dealer"	41025			
+"china dealer"	41025			
+"dealer in birds"	41025			
+"earthenware dealer"	41025			
+"cheesemonger"	41025			
+"tea broker"	41025			
+"dry goods merchant"	41025			
+"cheesemonger (master)"	41025			
+"china and glass dealer"	41025			
+"skin dealer"	41025			
+"dealer in jewellery"	41025			
+"beer dealer"	41025			
+"leather merchant"	41025			
+"curiosity dealer"	41025			
+"coal seller"	41025			
+"coradealer"	41025			
+"cork merchant"	41025			
+"cement merchant"	41025			
+"silk dealer"	41025			
+"fancy repository keeper"	41030			
+"shopkeeper"	41030			
+"general dealer"	41030			
+"hosier"	41030			
+"linen draper"	41030			
+"tobacconist"	41030			
+"ironmonger's assistant"	41030			
+"waste paper seller"	41030			
+"bookseller"	41030			
+"fancy dress merchant"	41030			
+"meat salesman"	41030			
+"leather seller"	41030			
+"druggist"	41030			
+"silkmercer"	41030			
+"draper (master)"	41030			
+"shell fishmonger"	41030			
+"fishmonger"	41030			
+"chandler's shopkeeper"	41030			
+"woollendraper"	41030			
+"news agent"	41030			
+"clothes saleman"	41030			
+"fishmonger's man"	41030			
+"provision merchant"	41030			
+"fruit vendor"	41030			
+"outfitter"	41030			
+"woollen draper"	41030			
+"milk retailer"	41030			
+"hosier's assistant"	41030			
+"draper"	41030			
+"clothier"	41030			
+"linendraper's assistant"	41030			
+"fishmonger's assistant"	41030			
+"draper's assistant"	41030			
+"linendraper"	41030			
+"stationer"	41030			
+"grocer"	41030			
+"clothier's assistant"	41030			
+"ladies outfitter"	41030			
+"teagrocer"	41030			
+"ironmonger"	41030			
+"chymist"	41030			
+"newsagent"	41030			
+"chandler's shop keeper"	41030			
+"fruiterer"	41030			
+"clothiers assistant"	41030			
+"drapers assistant"	41030			
+"greengrocer"	41030			
+"apothecary"	41030			
+"hosier assistant"	41030			
+"bookseller and publisher"	41030			
+"stationer's assistant"	41030			
+"bookseller's assistant"	41030			
+"master grocer"	41030			
+"law stationer"	41030			
+"greengrocer (deceased)"	41030			
+"proprietor of boats"	41040			
+"laundry keeper"	41040			
+"livery stable keeper"	41040			
+"shipkeeper"	41040			
+"funeral carriage proprietor"	41040			
+"shipowner"	41040			
+"ship keeper"	41040			
+"cab proprieter"	41040			
+"liverystable keeper"	41040			
+"fly proprietor"	41040			
+"retired omnibus proprietor"	41040			
+"job master"	41040			
+"cab proprietor"	41040			
+"omnibus proprietor"	41040			
+"stuff buyer"	42220			
+"merchant's buyer"	42220			
+"commisionaire"	42230			
+"navy agent"	42230			
+"commissionaire"	42230			
+"general agent"	43200			
+"agent"	43200			
+"brewer's traveller"	43220			
+"distiller's traveller"	43220			
+"travelling knife and scissor grinder"	43220			
+"traveller"	43220			
+"mercantile traveller"	43220			
+"traveller (stationer)"	43220			
+"chalk agent"	43220			
+"biscuit traveller"	43220			
+"wine merchant's traveller"	43220			
+"commercial traveller"	43220			
+"draper's traveller"	43220			
+"commercial traveller (deceased)"	43220			
+"comm. traveller"	43220			
+"grocer's traveller"	43220			
+"town traveller"	43220			
+"travelling showman"	43220			
+"retired commercial traveller"	43220			
+"clothier's traveller"	43220			
+"dried fruit merchant's traveller"	43220			
+"bacon and cheese factor"	43230			
+"colonial agent"	43230			
+"agent to asphalte company"	43230			
+"brewer's agent"	43230			
+"commision agent"	43230			
+"army agent"	43230			
+"commercial agent"	43230			
+"insurance agent"	44120			
+"financial agent"	44120			
+"life insurance agent"	44120			
+"ship and insurance agent"	44120			
+"house agent"	44130			
+"estate agent"	44130			
+"stockbroker"	44140			
+"bill broker"	44140			
+"broker"	44140			
+"broker's assistant"	44140			
+"banker"	44140			
+"stock broker"	44140			
+"musical concert agent"	44220			
+"auctioneer"	44320			
+"auctioneer's assistant"	44320			
+"wine valuer"	44330			
+"poulterer's salesman"	45125			
+"shoe salesman"	45125			
+"salesman at art repository"	45125			
+"pianoforte salesman"	45125			
+"potatoe salesman"	45125			
+"pianoforte maker's salesman"	45125			
+"game salesman"	45125			
+"cattle salesman"	45125			
+"upholsterers salesman"	45125			
+"salesman"	45125			
+"tailor's salesman"	45125			
+"pawnbroker's salesman"	45125			
+"furniture salesman"	45125			
+"upholsterer's salesman"	45125			
+"broker's salesman"	45125			
+"shell fish salesman"	45125			
+"potato salesman"	45125			
+"cabinet salesman"	45125			
+"hay salesman"	45125			
+"fish salesman"	45125			
+"fruit salesman"	45125			
+"grocer's assistant"	45130			
+"shopman"	45130			
+"linendraper's shopman"	45130			
+"fishmonger's shopman"	45130			
+"cornchandler's shopman"	45130			
+"lamp dealer's shopman"	45130			
+"shoemaker's shopman"	45130			
+"bookseller's shopman"	45130			
+"draper's shopman"	45130			
+"greengrocer's shopman"	45130			
+"grocers assistant"	45130			
+"shopman at a brass foundry"	45130			
+"shopwoman"	45130			
+"confectioner's shopman"	45130			
+"bookseller's collector"	45190			
+"druggist's sundryman"	45190			
+"news vendor"	45220			
+"newsvender"	45220			
+"brush hawker"	45220			
+"hawker of flowers"	45220			
+"wood vendor"	45220			
+"cutlery hawker"	45220			
+"fruit hawker"	45220			
+"hawker of china"	45220			
+"vendor of stationery"	45220			
+"hawker"	45220			
+"fish hawker"	45220			
+"costermonger (servant)"	45220			
+"song hawker"	45220			
+"poultry hawker"	45220			
+"milk carrier"	45220			
+"street hawker"	45220			
+"china hawker"	45220			
+"general hawker"	45220			
+"milkman"	45220			
+"slipper hawker"	45220			
+"milkman (deceased)"	45220			
+"vendor of cat's meat"	45220			
+"costermonger"	45220			
+"hawk boy"	45220			
+"vendor of catsmeat"	45220			
+"pawnbroker"	49020			
+"pawnbroker's assistant"	49020			
+"inkeeper"	51020			
+"hotel keeper"	51020			
+"tavern keeper"	51020			
+"innkeeper"	51020			
+"formerly a tavern keeper"	51020			
+"eatinghouse keeper"	51030			
+"eating house keeper"	51030			
+"lodging house keeper"	51040			
+"formerly a coffee house keeper"	51050			
+"retired licensed victualler"	51050			
+"coffee house keeper"	51050			
+"beershop keeper"	51050			
+"beer seller"	51050			
+"formerly a licensed victualler"	51050			
+"publican"	51050			
+"beerseller"	51050			
+"coffeehouse keeper"	51050			
+"beer shop keeper"	51050			
+"retailer of beer"	51050			
+"beer retailer"	51050			
+"formerly a publican"	51050			
+"beerhouse keeper"	51050			
+"victualler"	51050			
+"retailer of ale, beer, and coals"	51050			
+"coffee shop keeper"	51050			
+"licensed victualler"	51050			
+"licensed victualler's assistant"	51050			
+"park keeper"	51090			
+"bath proprietor"	51090			
+"female cook"	53100			
+"ships's cook"	53100			
+"ship's cook"	53100			
+"formerly a cook"	53100			
+"mess cook"	53100			
+"cook"	53100			
+"hotel cook"	53100			
+"professed cook"	53100			
+"hospital cook"	53100			
+"pastrycook"	53130			
+"tavern waiter"	53210			
+"waiter"	53210			
+"public house waiter"	53210			
+"waiter at tavern"	53210			
+"hotel waiter"	53230			
+"club servant"	53230			
+"barmaid"	53250			
+"barman (public house)"	53250			
+"barman"	53250			
+"potboy"	53290			
+"public house potman"	53290			
+"potman"	53290			
+"servant in 2d lifeguards"	54010			
+"sevant (f)"	54010			
+"servant"	54010			
+"domestic"	54010			
+"domestic servant"	54010			
+"general servant"	54010			
+"man servant"	54010			
+"formerly domestic servant"	54010			
+"formerly a servant"	54010			
+"formerly a domestic servant"	54010			
+"housemaid"	54020			
+"formerly gentleman's servant"	54030			
+"gentleman's servant"	54030			
+"valet"	54030			
+"lady's maid"	54030			
+"gentlemans servant"	54030			
+"nursemaid"	54035			
+"steward of a vessel"	54060			
+"steward of vessel"	54060			
+"cabin boy"	54060			
+"ships's steward"	54060			
+"steamboat steward"	54060			
+"ship steward"	54060			
+"ship's steward"	54060			
+"footman"	54090			
+"lodgekeeper"	54090			
+"footman (domestic servant)"	54090			
+"harwoman"	55220			
+"charwoman"	55220			
+"chimney sweeper"	55240			
+"sweep"	55240			
+"chimney sweep"	55240			
+"carriage cleaner, south western railway"	55290			
+"laundryman"	56010			
+"laundress"	56010			
+"laundrywoman"	56010			
+"master of laundry"	56010			
+"launderer"	56010			
+"washerwoman"	56010			
+"hot presser"	56065			
+"stay presser"	56065			
+"hotpresser"	56065			
+"mangler"	56090			
+"hair dresser's assistant"	57025			
+"artist in hair"	57025			
+"hairdresser"	57025			
+"hair dresser"	57025			
+"assistant hairdresser"	57025			
+"barber"	57030			
+"dock constable"	58220			
+"police constable"	58220			
+"high bailiff county court"	58220			
+"thames police constable"	58220			
+"formerly police constable"	58220			
+"constable"	58220			
+"policeman"	58220			
+"thames police officer"	58220			
+"police inspector"	58220			
+"pensioner (police)"	58220			
+"city police constable"	58220			
+"park constable"	58220			
+"superannuated police sergeant"	58220			
+"police sergeant"	58220			
+"ship's police constable"	58220			
+"private watchman"	58240			
+"railway policeman"	58240			
+"formerly a private watchman"	58240			
+"retired railway detective officer"	58240			
+"pensioner, military board office, calcutta"	58300			
+"pensioner royal artillery"	58300			
+"chelsea pensioner"	58300			
+"pensioner, late 52d regiment"	58300			
+"army out pensioner"	58300			
+"pensioner r.m."	58300			
+"pensioner, royal artillery"	58300			
+"late adjutant to the dorset militia"	58300			
+"pensioner r.a."	58300			
+"chelsea pensioner and dock watchman"	58300			
+"marine"	58300			
+"pensioner (43d regiment foot)"	58300			
+"pensioner, coldstream guards"	58300			
+"pensioner from royal marines"	58300			
+"formerly in royal marines"	58300			
+"army pensioner"	58300			
+"lieutenant (half pay)"	58320			
+"captain, r.n."	58320			
+"formerly an officer in the army"	58320			
+"lieutenant u.s. army"	58320			
+"colonel"	58320			
+"captain indian navy"	58320			
+"captain"	58320			
+"retired captain"	58320			
+"captain of the three brothers"	58320			
+"captain (merchant service)"	58320			
+"captain in merchant service"	58320			
+"officer (indian navy)"	58320			
+"major general"	58320			
+"captain merchant service"	58320			
+"captain (east india army)"	58320			
+"officer"	58320			
+"captain of steamboat"	58320			
+"general in royal artillery, k.c.b."	58320			
+"sea captain"	58320			
+"commander r.n."	58320			
+"lieutenant (r.n.)"	58320			
+"lieutenant (army)"	58320			
+"formerly a military captain"	58320			
+"lieutenant"	58320			
+"late lieutenant 32d light infantry"	58320			
+"lieutenant colonel"	58320			
+"vice admiral"	58320			
+"army lieutenant"	58320			
+"serjeant major"	58330			
+"yeoman warder"	58330			
+"sergeant r.m."	58330			
+"military sergeant"	58330			
+"sergeant"	58330			
+"quartermaster"	58330			
+"corporal r.a."	58330			
+"sergeant m.t."	58330			
+"serjeant major r.a."	58330			
+"yeoman of the guard"	58330			
+"yeoman of the guards"	58330			
+"corporal"	58330			
+"yeoman (h.m. guards)"	58330			
+"sergeant major"	58330			
+"late serjeant r.e."	58330			
+"sergeant r.a."	58330			
+"serjeant r.a."	58330			
+"sergeant military train"	58330			
+"sergeant (coldstream guards)"	58330			
+"colour sergeant"	58330			
+"serjeant r.m."	58330			
+"serjeant, r.a."	58330			
+"sergeant grenadier guards"	58330			
+"formerly quartermaster serjeant r.m."	58330			
+"militia sergeant"	58330			
+"warrant officer"	58330			
+"serjeant"	58330			
+"colour serjeant, 32d regiment"	58330			
+"trumpet major r.a."	58330			
+"private scots fusiliers"	58340			
+"private r.m."	58340			
+"private r.e."	58340			
+"soldier (pensioner)"	58340			
+"private coldstream guards"	58340			
+"formerly private in the army"	58340			
+"late private r.m."	58340			
+"discharged soldier"	58340			
+"gunner, r.a."	58340			
+"military train"	58340			
+"gunner"	58340			
+"private soldier"	58340			
+"army piper"	58340			
+"gunner r.a."	58340			
+"private m.t."	58340			
+"trooper 1st life guards"	58340			
+"private in military train"	58340			
+"private grenadier guards"	58340			
+"soldier"	58340			
+"private"	58340			
+"discharged artillery man"	58340			
+"bombardier r.a."	58350			
+"bombardier"	58350			
+"warder (millbank prison)"	58930			
+"sub warder at house of correction"	58930			
+"chief warder millbank prison"	58930			
+"warder (house of correction)"	58930			
+"warder, millbank prison"	58930			
+"turnkey at newgate"	58930			
+"warder at the dockyard"	58930			
+"prison warder"	58930			
+"night watchman"	58940			
+"watchouse keeper"	58940			
+"watchman"	58940			
+"life guardsman"	58990			
+"undertaker"	59220			
+"pocket book maker"	59920			
+"pocket bookmaker"	59920			
+"attendant at lunatic asylum"	59940			
+"attendant on the insane"	59940			
+"attendant on invalids"	59940			
+"lunatic's attendant"	59940			
+"attendant on insane"	59940			
+"cleaner of gas retorts"	59990			
+"wine cellarman"	59990			
+"advertisement board carrier"	59990			
+"cellarman"	59990			
+"billiard marker"	59990			
+"usher in court of queen's bench"	59990			
+"bill poster"	59990			
+"bill sticker"	59990			
+"clipper of horses"	59990			
+"envelope stamper"	59990			
+"formerly farmer"	61110			
+"farmer"	61110			
+"market gardener"	61270			
+"agricultural labourer"	62105			
+"farm labourer"	62105			
+"chaffcutter"	62290			
+"chaff-cutter"	62290			
+"ostler"	62490			
+"horsekeeper"	62490			
+"drover (master)"	62490			
+"licensed drover"	62490			
+"stableman"	62490			
+"cattle driver"	62490			
+"hostler"	62490			
+"cattle drover"	62490			
+"groom"	62490			
+"horse keeper"	62490			
+"formerly an ostler"	62490			
+"groom (deceased)"	62490			
+"drover"	62490			
+"cowman"	62510			
+"cowkeeper"	62510			
+"dairyman"	62510			
+"dairyman (deceased)"	62510			
+"formerly a gardener"	62700			
+"jobbing gardener"	62700			
+"retired gardener"	62700			
+"gardener"	62700			
+"gentleman's gardener"	62700			
+"seed dresser"	62730			
+"seedsman (r)"	62730			
+"nurseryman"	62730			
+"seedsman's assistant"	62730			
+"bird catcher"	62990			
+"woodcutter"	63190			
+"wood chopper"	63190			
+"wood cutter"	63190			
+"willow cutter"	63190			
+"fisherman"	64100			
+"miner"	71105			
+"cornish miner"	71105			
+"pewterer"	72000			
+"zincworker"	72000			
+"zinc worker"	72000			
+"working at whitelead works"	72000			
+"brass smelter"	72100			
+"furnace man"	72100			
+"mill furnace man"	72170			
+"melter in the mint"	72170			
+"gold refiner's assistant"	72170			
+"shingler, ironworks"	72190			
+"tin roller"	72250			
+"tinfoil roller"	72250			
+"typefounder"	72420			
+"brazier"	72420			
+"type founder"	72420			
+"type caster"	72420			
+"iron moulder"	72500			
+"brass moulder"	72500			
+"moulder"	72500			
+"metal moulder's apprentice"	72500			
+"ironmoulder"	72500			
+"brass founder"	72500			
+"foundryman"	72500			
+"brassfounder"	72500			
+"mould turner"	72500			
+"wire drawer"	72725			
+"galvanizer"	72830			
+"iron plate worker"	72890			
+"electro gilder"	72890			
+"iron trimmer"	72990			
+"metal turner"	72990			
+"chipper, iron works"	72990			
+"brass worker"	72990			
+"chair sawyer"	73200			
+"sawyer"	73210			
+"mill sawyer"	73210			
+"wood sawyer"	73210			
+"cork burner"	73290			
+"corkcutter"	73290			
+"cork cutter"	73290			
+"scale board cutter"	73290			
+"paper maker"	73400			
+"paper miller"	73400			
+"parchment maker"	73460			
+"paper roller"	73490			
+"paste board maker"	73490			
+"waterproofer's assistant"	73490			
+"paper cutter"	73490			
+"pasteboard maker"	73490			
+"paper stainer"	73490			
+"waterproofer"	73490			
+"paperstainer"	73490			
+"varnish maker"	74100			
+"iron founder"	74220			
+"ironfounder"	74220			
+"fireman"	74240			
+"perfumer"	74490			
+"charcoal burner"	74930			
+"animal charcoal burner (deceased)"	74930			
+"animal charcoal maker"	74930			
+"animal charcoal burner"	74930			
+"charcoal grinder"	74990			
+"wool sorter"	75115			
+"woolsorter"	75115			
+"silk spinner"	75220			
+"winder"	75250			
+"silk winder"	75250			
+"pattern maker"	75350			
+"jacquard cardcutter"	75350			
+"jacquard card cutter"	75350			
+"weaver"	75400			
+"rug weaver"	75410			
+"silk weaver"	75432			
+"hearthrug maker"	75457			
+"hearth rug weaver"	75457			
+"hearth rug maker"	75457			
+"floorcloth maker"	75457			
+"hearthrug dresser"	75490			
+"ribbon weaver"	75490			
+"linkman"	75530			
+"garment dyer"	75622			
+"silk dyer"	75622			
+"rag dyer"	75622			
+"dyer and scourer (deceased)"	75622			
+"dyer"	75622			
+"silkdresser"	75635			
+"oilcloth maker"	75660			
+"calenderer"	75670			
+"silk printer"	75690			
+"dyer's finisher"	75690			
+"mat dresser"	75690			
+"clothworker"	75690			
+"horsehair curler"	75690			
+"dye sinker and engraver"	75690			
+"horsehair dresser"	75690			
+"rope spinner"	75710			
+"rope maker"	75710			
+"twine spinner"	75710			
+"ropemaker"	75710			
+"mat maker"	75990			
+"matmaker"	75990			
+"matting weaver"	75990			
+"elastic web weaver"	75990			
+"fellmonger"	76125			
+"tanner"	76145			
+"leather dresser"	76150			
+"currier"	76150			
+"skindresser"	76190			
+"leather shaver"	76190			
+"skin dresser"	76190			
+"flour miller"	77120			
+"grainer"	77190			
+"sugar baker"	77200			
+"sugar refiner"	77200			
+"sugar boiler"	77250			
+"butcher (master)"	77310			
+"portk butcher"	77310			
+"master butcher"	77310			
+"butcher"	77310			
+"slaughterman"	77320			
+"eating house cutter"	77340			
+"tripe dresser"	77390			
+"pork butcher"	77390			
+"fish curer"	77450			
+"fishcurer"	77450			
+"bacon dryer"	77450			
+"retired baker"	77610			
+"journeyman baker"	77610			
+"master baker"	77610			
+"baker"	77610			
+"confectioner"	77660			
+"confectioner's assistant"	77660			
+"biscuit baker"	77690			
+"coffee roaster"	77750			
+"brewer"	77810			
+"soda water maker"	77810			
+"brewer's servant"	77810			
+"brewers assistant (d)"	77810			
+"distiller"	77810			
+"ginger beer manufacturer"	77890			
+"mineral water maker"	77890			
+"ginger beer maker"	77890			
+"brewer's man"	77890			
+"oilman's assistant"	77920			
+"oilman"	77920			
+"oil refiner"	77925			
+"tobacco cutter"	78155			
+"tobacco stripper"	78155			
+"tobaco stripper"	78155			
+"tobacco operative"	78190			
+"cigarmaker"	78200			
+"cigar maker"	78200			
+"cigar manufacturer"	78200			
+"snuffmaker"	78920			
+"tailor"	79100			
+"formerly tailor"	79100			
+"tailor (master)"	79100			
+"tailoress"	79100			
+"tailor (r)"	79100			
+"dressmaker"	79140			
+"hassock maker"	79190			
+"staymaker"	79190			
+"waistcoat maker"	79190			
+"shirt maker"	79190			
+"necktie cutter"	79190			
+"stay busk maker"	79190			
+"shirt collar maker"	79190			
+"cutter"	79190			
+"cutter in the slop trade"	79190			
+"habit maker"	79190			
+"military tailor"	79190			
+"robe maker"	79190			
+"shirtmaker"	79190			
+"stay maker"	79190			
+"mantle maker"	79190			
+"fur worker"	79200			
+"fur and skin worker"	79200			
+"furrier"	79220			
+"fur puller"	79290			
+"fur skin dresser"	79290			
+"hatter"	79310			
+"hatter and tailor"	79310			
+"hat maker"	79310			
+"hatter (deceased)"	79310			
+"hatmaker"	79310			
+"hat manufacturer"	79310			
+"milliner"	79320			
+"bonnet maker"	79320			
+"bonnet blocker"	79330			
+"cap maker"	79390			
+"miller's man"	79390			
+"capmaker"	79390			
+"straw hat presser"	79390			
+"bonnet presser"	79390			
+"straw bonnet maker"	79390			
+"boy's cap maker"	79390			
+"leather finisher"	79440			
+"hat leather cutter"	79460			
+"seamstress"	79510			
+"sempstress"	79510			
+"needleworker"	79520			
+"needle worker"	79520			
+"needlewoman"	79520			
+"machinist"	79550			
+"sewing machinist"	79550			
+"sewing machine worker"	79550			
+"upholsterers assistant"	79620			
+"horsehair seat maker"	79620			
+"upholsterer"	79620			
+"coach trimmer"	79620			
+"chair stuffer"	79620			
+"coach trimmer (deceased)"	79620			
+"couchmaker"	79620			
+"upholsterer's assistant"	79620			
+"matrass maker"	79640			
+"mattress maker"	79640			
+"mattrass maker"	79640			
+"sailmaker"	79920			
+"sail maker"	79920			
+"sail-cloth maker"	79920			
+"tent maker"	79920			
+"umbrella maker"	79930			
+"umbrella frame maker"	79930			
+"parasol cutter"	79990			
+"trimming maker"	79990			
+"fancy trimming weaver"	79990			
+"flag maker"	79990			
+"slipper maker"	79990			
+"clothier's cutter"	79990			
+"feather maker"	79990			
+"tassel maker"	79990			
+"trimming weaver"	79990			
+"ostrich feather maker"	79990			
+"tarpaulin maker"	79990			
+"collar dresser"	79990			
+"trimming manufacturer"	79990			
+"artificial flower maker"	79990			
+"artificial florist"	79990			
+"shoe maker"	80110			
+"formerly a bootmaker"	80110			
+"shoemaker (deceased)"	80110			
+"bottmaker"	80110			
+"boot manufacturer"	80110			
+"shoemaker's assistant"	80110			
+"boot maker"	80110			
+"formerly shoemaker"	80110			
+"shoemaker (master)"	80110			
+"journeyman bootmaker"	80110			
+"cordwainer"	80110			
+"boot and shoemaker"	80110			
+"working shoemaker"	80110			
+"shoemaker (r)"	80110			
+"journeyman shoemaker"	80110			
+"master bootmaker"	80110			
+"bootmaker"	80110			
+"shoemaker"	80110			
+"master shoemaker"	80110			
+"shoe manufacturer"	80110			
+"boot and shoe maker"	80110			
+"formerly cordwainer"	80110			
+"clicker"	80222			
+"shoebinder"	80250			
+"bootbinder"	80250			
+"boot binder"	80250			
+"boot machinist"	80250			
+"boot closer"	80255			
+"bootcloser"	80255			
+"boot finisher"	80255			
+"boot rivetter"	80290			
+"bootblocker"	80290			
+"boot riveter"	80290			
+"leather case maker"	80310			
+"harness maker"	80320			
+"saddler and harness maker"	80320			
+"bracemaker"	80320			
+"saddler"	80320			
+"brace maker"	80320			
+"horse collar maker"	80320			
+"leather cutter"	80350			
+"whipthong maker"	80390			
+"chair maker"	81120			
+"looking glass frame maker"	81120			
+"deal cabinet maker"	81120			
+"furniture maker"	81120			
+"cabinet maker"	81120			
+"musicstool maker"	81120			
+"chairmaker"	81120			
+"sofa maker"	81120			
+"backgammon table maker"	81190			
+"bedstead maker"	81190			
+"gun case maker"	81190			
+"bed maker"	81190			
+"plate case maker"	81190			
+"medicine chest maker (deceased)"	81190			
+"bellows maker"	81190			
+"dressing case maker"	81190			
+"jewel case maker"	81190			
+"casemaker"	81190			
+"ivory sawyer"	81220			
+"ivory turner (master)"	81230			
+"wood turner"	81230			
+"chair turner"	81230			
+"ivory turner"	81230			
+"turner"	81230			
+"coach smith"	81920			
+"journeyman coachsmith"	81920			
+"coachbuilder"	81920			
+"coach builder"	81920			
+"carriage maker"	81920			
+"coachmaker"	81920			
+"coachbody maker"	81920			
+"coach binder"	81920			
+"coach maker"	81920			
+"coach lace weaver"	81920			
+"retired coach builder"	81920			
+"railway coachmaker"	81920			
+"coach plater"	81920			
+"coachsmith"	81920			
+"coach joiner"	81920			
+"carriage smith"	81920			
+"wheelwright"	81925			
+"wheelwright (deceased)"	81925			
+"oil cooper"	81930			
+"wine cooper"	81930			
+"vatmaker"	81930			
+"dock cooper"	81930			
+"cooper"	81930			
+"back and vat maker"	81930			
+"vat maker"	81930			
+"wood pattern maker"	81935			
+"modeller"	81940			
+"handrail maker"	81945			
+"carver and gilder"	81945			
+"couch carver"	81945			
+"chair carver"	81945			
+"carver"	81945			
+"carver and gilder (deceased)"	81945			
+"wood letter cutter"	81945			
+"wood carver"	81945			
+"carver & gilder"	81945			
+"cabinet carver"	81945			
+"french polisher (deceased)"	81955			
+"furniture japanner"	81955			
+"pianoforte polisher"	81955			
+"french polisher"	81955			
+"tobaccopipe maker"	81960			
+"tobacco pipe maker"	81960			
+"clog maker"	81990			
+"walking stick maker"	81990			
+"saddle tree maker"	81990			
+"trunk maker"	81990			
+"walking stick dresser"	81990			
+"frame maker"	81990			
+"fretcutter's assistant"	81990			
+"picture frame maker"	81990			
+"packing case maker"	81990			
+"funeral furnisher"	81990			
+"walkingstick dresser"	81990			
+"framemaker"	81990			
+"boxmaker"	81990			
+"box maker"	81990			
+"packingcase maker"	81990			
+"packing box maker"	81990			
+"stone sawyer"	82020			
+"marble polisher"	82020			
+"oil stone cutter"	82020			
+"stonecutter"	82020			
+"stone carver"	82070			
+"marble decorator"	82070			
+"school slate maker"	82090			
+"smith in h.m. dockyard"	83110			
+"file cutter"	83110			
+"farrier"	83110			
+"smith"	83110			
+"general smith"	83110			
+"lastmaker"	83110			
+"journeyman farrier"	83110			
+"blacksmith"	83110			
+"farrier major"	83110			
+"smith's hammerman"	83120			
+"hammer man"	83120			
+"iron hammerer"	83120			
+"hammerman"	83120			
+"printer's smith"	83190			
+"tool cutter"	83210			
+"engineer's tool maker"	83220			
+"engineer's pattern maker"	83290			
+"brass turner"	83320			
+"engine turner"	83320			
+"engineer's driller"	83360			
+"driller of iron"	83360			
+"machine man in railway factory"	83410			
+"hydraulic machine worker"	83410			
+"lather"	83420			
+"iron turner"	83420			
+"saw sharpener"	83530			
+"knife grinder"	83540			
+"sons of polisher"	83590			
+"silver polisher"	83590			
+"brass finisher"	83590			
+"polisher"	83590			
+"steel polisher"	83590			
+"awl blade maker"	83915			
+"cutler (master)"	83915			
+"cutler"	83915			
+"sawmaker"	83915			
+"gun maker"	83920			
+"gunsmith"	83920			
+"gunlock maker"	83920			
+"gunmaker"	83920			
+"gun implement maker"	83920			
+"pistol maker"	83920			
+"locksmith"	83930			
+"stamper of embroidery"	83960			
+"capsule stamper"	83960			
+"stamper in gpo"	83960			
+"wire worker"	83990			
+"birdcage maker"	83990			
+"bird cage maker"	83990			
+"wadding maker"	83990			
+"fusee chain maker"	83990			
+"bridle bit maker"	83990			
+"nail maker"	83990			
+"wire weaver"	83990			
+"gas engineer"	84100			
+"practical engineer"	84100			
+"engine fitter"	84100			
+"knife cleaning machine maker"	84100			
+"engineer"	84100			
+"engine maker"	84100			
+"beer engine maker"	84100			
+"working engineer"	84100			
+"engineer's fitter"	84100			
+"engine smith"	84100			
+"fireproof safe maker"	84105			
+"fire proof safe maker"	84105			
+"boiler fitter"	84110			
+"fitter and turner"	84110			
+"stove maker"	84110			
+"iron fitter"	84110			
+"fitter royal arsenal"	84110			
+"oven builder"	84110			
+"millwright"	84175			
+"meter maker"	84190			
+"gas meter maker"	84190			
+"ventilator fitter"	84190			
+"pump maker"	84190			
+"gasmeter maker"	84190			
+"weighing machine maker"	84190			
+"watchmaker"	84220			
+"clockmaker"	84220			
+"watch case maker"	84220			
+"clock and watch maker"	84220			
+"clock finisher"	84220			
+"clock maker"	84220			
+"watch maker"	84220			
+"watch finisher"	84220			
+"brass rule maker"	84230			
+"scale maker"	84230			
+"mathematical instrument maker"	84230			
+"scalemaker"	84230			
+"mathematical rule maker"	84230			
+"surgical instrument maker"	84240			
+"compass maker"	84240			
+"mechanic"	84900			
+"plumber"	87105			
+"retired plumber and glazier"	87105			
+"plumber and glazier"	87105			
+"plumber and painter"	87105			
+"plumber painter and glazier"	87105			
+"gas fitter"	87120			
+"gas fitter (master)"	87120			
+"gasfitter"	87120			
+"coppersmith"	87330			
+"tinplate worker"	87340			
+"tin foil beater"	87340			
+"formerly tinman"	87340			
+"tinman"	87340			
+"tin plate worker"	87340			
+"boiler maker"	87350			
+"boilermaker"	87350			
+"boiler smith"	87350			
+"boiler at sugarhouse"	87350			
+"shipsmith"	87450			
+"ship smith"	87450			
+"ship's smith"	87450			
+"riveter, ironworks"	87462			
+"riveter"	87462			
+"rivetter"	87462			
+"iron riveter"	87462			
+"gold and silver laceman"	88010			
+"jeweller"	88010			
+"gold chain maker"	88010			
+"gold lace-maker"	88010			
+"working jeweller"	88010			
+"silversmith's assistant"	88050			
+"goldsmith"	88050			
+"working silversmith"	88050			
+"silversmith"	88050			
+"silver smith"	88050			
+"whitesmith"	88050			
+"gold wire flattener"	88070			
+"gold beater"	88070			
+"gold wire drawer"	88070			
+"goldbeater"	88070			
+"watch motion maker"	88080			
+"gold engraver"	88080			
+"gold and silver embosser"	88080			
+"watch escapement maker"	88080			
+"watchcase springer"	88080			
+"watch springer"	88080			
+"watch springer and polisher"	88080			
+"watch spring maker"	88080			
+"watch jeweller"	88080			
+"watch pallatt maker"	88080			
+"watch engraver"	88080			
+"watch case springer"	88080			
+"engraver"	88080			
+"late of h.m's mint, calcutta"	88090			
+"gold piercer"	88090			
+"gold and silver flatter"	88090			
+"coiner (mint)"	88090			
+"glass blower"	89120			
+"glassblower"	89120			
+"glass bead blower"	89120			
+"watch glass maker"	89132			
+"glasscutter"	89156			
+"glass drop cutter"	89156			
+"glass cutter"	89156			
+"optical glass worker"	89160			
+"glass sorter"	89190			
+"potter"	89210			
+"brickmaker"	89242			
+"brick moulder"	89242			
+"pipe maker"	89290			
+"pipemaker"	89290			
+"glass maker"	89320			
+"glass shade maker"	89320			
+"furnaceman"	89320			
+"writer on glass"	89400			
+"glass engraver"	89420			
+"painter on glass"	89520			
+"glass painter"	89520			
+"gilder"	89530			
+"looking glass silverer"	89570			
+"looking glass maker"	89570			
+"glass stainer"	89590			
+"enameller"	89590			
+"miller"	89930			
+"slip maker"	89940			
+"fancy box maker"	91020			
+"hat box maker"	91025			
+"cigar box maker"	91050			
+"paper bag maker"	91075			
+"card presser"	91090			
+"cardmaker"	91090			
+"card maker"	91090			
+"paper embosser"	91090			
+"paper carver"	91090			
+"pressman"	92000			
+"machine printer"	92110			
+"printer (machinist)"	92110			
+"printer's boy"	92110			
+"printer's machinist"	92110			
+"compositor (d)"	92120			
+"compositor (superannuated)"	92120			
+"compositor"	92120			
+"corrector of the press"	92190			
+"copper plate printer"	92225			
+"copperplate printer"	92225			
+"printer's roller maker"	92230			
+"lithographic printer"	92250			
+"lithographer"	92250			
+"stereotyper"	92320			
+"wood engraver"	92430			
+"chaser"	92440			
+"letterpress embosser"	92490			
+"vellum binder"	92625			
+"bookbinder (master)"	92625			
+"bookbinder"	92625			
+"journeyman bookbinder"	92625			
+"book marbler"	92690			
+"book mounter"	92690			
+"floorcloth printer"	92950			
+"master printer"	92950			
+"printer"	92950			
+"calico glazer"	92950			
+"housepainter"	93120			
+"house painter and decorator"	93120			
+"painter"	93120			
+"journeyman painter on glass"	93120			
+"painter and grainer"	93120			
+"house decorator"	93120			
+"house painter (deceased)"	93120			
+"painter and decorator"	93120			
+"formerly a painter"	93120			
+"house painter"	93120			
+"coach painter"	93190			
+"gold edge gilder"	93920			
+"carriage painter"	93920			
+"japanner"	93920			
+"watch dial enameller"	93920			
+"signboard writer"	93950			
+"sign writer"	93950			
+"sign board writer"	93950			
+"musical instrument maker"	94100			
+"clarionet maker"	94130			
+"organ builder"	94160			
+"harmonium maker"	94160			
+"organ pipe maker"	94160			
+"pianoforte maker"	94170			
+"pianoforte wire drawer (deceased)"	94170			
+"pianoforte maker (d)"	94170			
+"pianoforte string maker"	94170			
+"pianoforte tuner"	94180			
+"reed maker"	94190			
+"fish basket maker"	94220			
+"basket maker"	94220			
+"basket-maker"	94220			
+"basket maker (master)"	94220			
+"brush maker"	94230			
+"brush drawer"	94230			
+"artist brush maker"	94230			
+"brushmaker"	94230			
+"chair caner"	94250			
+"cane preparer"	94290			
+"cane dresser"	94290			
+"cane worker"	94290			
+"cane preparer (deceased)"	94290			
+"bird stuffer"	94920			
+"taxidermist"	94920			
+"doll maker"	94940			
+"candle maker"	94960			
+"candlemaker"	94960			
+"tank maker"	94990			
+"bow and arrow maker"	94990			
+"ivory carver"	94990			
+"blindmaker"	94990			
+"pencil maker"	94990			
+"carriage lamp maker"	94990			
+"wig maker"	94990			
+"military ornament maker"	94990			
+"military pouch maker"	94990			
+"starch maker"	94990			
+"mother of pearl worker"	94990			
+"ink stand maker"	94990			
+"china mender"	94990			
+"combmaker"	94990			
+"oar maker"	94990			
+"corn plaster maker"	94990			
+"button maker"	94990			
+"toy turner"	94990			
+"tortoiseshell maker"	94990			
+"soapmaker"	94990			
+"comb maker"	94990			
+"elastic band maker"	94990			
+"zinc sieve maker"	94990			
+"whalebone preparer"	94990			
+"figure maker"	94990			
+"pearl worker"	94990			
+"soap boiler"	94990			
+"boot lace maker"	94990			
+"drawing pin maker"	94990			
+"emery paper maker"	94990			
+"splint cutter"	94990			
+"globe maker"	94990			
+"lampmaker"	94990			
+"match maker"	94990			
+"soapboiler"	94990			
+"toy maker"	94990			
+"pen dresser"	94990			
+"soap maker"	94990			
+"firework maker"	94990			
+"lamp maker"	94990			
+"sun blind maker"	94990			
+"hose maker"	94990			
+"fancy soap maker"	94990			
+"tallow melter"	94990			
+"water proofer"	94990			
+"perambulator maker"	94990			
+"blind maker"	94990			
+"butcher's skewer maker"	94990			
+"formerly a bricklayer"	95120			
+"bricklayer"	95120			
+"stone mason"	95140			
+"slate mason"	95140			
+"mason"	95140			
+"stonemason"	95140			
+"marblemason"	95145			
+"marble mason"	95145			
+"pavior"	95160			
+"paviour"	95160			
+"slater"	95320			
+"master carpenter"	95410			
+"working carpenter"	95410			
+"carpenter (d)"	95410			
+"carpenter (deceased)"	95410			
+"carpenter and joiner"	95410			
+"carpenter"	95410			
+"joiner"	95420			
+"shipwright h.m. dockyard"	95440			
+"shipwright"	95440			
+"ship caulker"	95440			
+"ship joiner"	95445			
+"boat makers assistant"	95450			
+"barge builder"	95450			
+"boat builder"	95450			
+"ship's carpenter"	95455			
+"ship carpenter"	95455			
+"mast maker"	95455			
+"block cutter"	95490			
+"blockmaker"	95490			
+"caulker"	95490			
+"bonnet block maker"	95490			
+"working plasterer"	95510			
+"plasterer"	95510			
+"plasterer's boy"	95510			
+"modeller in plaster"	95590			
+"lath render"	95590			
+"glazier"	95720			
+"retired builder"	95910			
+"formerly builder"	95910			
+"builder"	95910			
+"paperhanger"	95925			
+"paper hanger"	95925			
+"carpet planner"	95930			
+"scaffold builder"	95940			
+"puller down of old houses"	95945			
+"pipelayer"	95950			
+"slate worker"	95990			
+"bellhanger"	95990			
+"stoker at gas works"	96190			
+"engine stoker"	96190			
+"engineer's stoker"	96190			
+"gasworks stoker"	96190			
+"gas factory stoker"	96190			
+"stoker in gas factory"	96190			
+"stoker in gasworks"	96190			
+"gashouse stoker"	96190			
+"stoker at gasworks"	96190			
+"gas stoker"	96190			
+"engine driver at a pianoforte factory"	96910			
+"saw mill engine driver"	96910			
+"engine driver at distillery"	96910			
+"factory engine driver"	96910			
+"engine driver"	96910			
+"engine driver and stoker in a warehouse"	96910			
+"engine driver at brewery"	96910			
+"fireman at iron foundry"	96930			
+"dock labourer"	97120			
+"dockyard labourer"	97120			
+"stevedore"	97120			
+"light porter"	97125			
+"timber porter"	97125			
+"beer porter"	97125			
+"porter at potato warehouse"	97125			
+"warehouse porter"	97125			
+"porter at hotel"	97125			
+"porter at glass shop"	97125			
+"jeweller's porter"	97125			
+"printer's porter"	97125			
+"general porter"	97125			
+"auctioneer's porter"	97125			
+"lightporter"	97125			
+"tailor's porter"	97125			
+"fellowship porter"	97125			
+"timber dealers porter"	97125			
+"hotel porter"	97125			
+"house porter"	97125			
+"druggist's porter"	97125			
+"porter at hospital"	97125			
+"dyer's porter"	97125			
+"ironmonger's porter"	97125			
+"coalporter"	97125			
+"porter of granary"	97125			
+"upholsterer's porter"	97125			
+"broker's porter"	97125			
+"grocer's porter"	97125			
+"bazaar porter"	97125			
+"porter"	97125			
+"iron merchant's porter"	97125			
+"porter at a granary"	97125			
+"inn porter"	97125			
+"twine merchant's porter"	97125			
+"japanner's porter"	97125			
+"gate porter"	97125			
+"porter at patent medicine warehouse"	97125			
+"porter at bank of england"	97125			
+"coal porter"	97125			
+"hall porter"	97125			
+"deal porter"	97125			
+"railway porter"	97130			
+"railway foreman"	97130			
+"foreman (railway company)"	97130			
+"wine merchant's porter"	97145			
+"toy warehouseman"	97145			
+"apprentice to a warehouseman"	97145			
+"printer's warehouseman"	97145			
+"twine warehouseman"	97145			
+"clothier's warehouseman"	97145			
+"assistant at carpet warehouse"	97145			
+"clothiers warehouseman"	97145			
+"wine porter"	97145			
+"draper's warehouseman"	97145			
+"tea warehouseman"	97145			
+"provision dealer's warehouseman"	97145			
+"fruit warehouseman"	97145			
+"fancy warehouseman"	97145			
+"fishmarket porter"	97145			
+"fish porter"	97145			
+"corn porter"	97145			
+"market porter"	97145			
+"manchester warehouseman"	97145			
+"silk warehouseman"	97145			
+"hop warehouseman"	97145			
+"warehouseman"	97145			
+"shed man in docks"	97145			
+"woollen warehouseman"	97145			
+"tanner's warehouseman"	97145			
+"potato warehouseman's assistant"	97145			
+"coffee warehouseman"	97145			
+"leather dresser's warehouseman"	97145			
+"cheesemonger's warehouseman"	97145			
+"warehouseman's assistant"	97145			
+"spice warehouseman"	97145			
+"wine packer"	97150			
+"soda water bottler"	97152			
+"furniture packer"	97152			
+"packer and clothworker"	97152			
+"blacklead packer"	97152			
+"packer"	97152			
+"woolpacker"	97152			
+"merchant's packer"	97152			
+"picture packer"	97152			
+"rigger"	97205			
+"ship rigger"	97230			
+"ballast getter"	97335			
+"ballast heaver"	97335			
+"railway excavator"	97400			
+"excavator"	97400			
+"railway miner"	97400			
+"railway labourer"	97415			
+"navvy"	97415			
+"pile driver"	97440			
+"sailor boy"	98100			
+"boatswain"	98120			
+"formerly a mariner"	98135			
+"mariner"	98135			
+"seaman r.n."	98135			
+"seaman"	98135			
+"sailor"	98135			
+"shipboy"	98190			
+"waterman's apprentice"	98190			
+"waterman and lighterman"	98190			
+"waterman"	98190			
+"lighterman"	98190			
+"waterman at cab stand"	98190			
+"bargeman"	98190			
+"lighterman's apprentice"	98190			
+"waterman h.m. customs"	98190			
+"ship's apprentice"	98190			
+"steamboat engine driver"	98190			
+"lighterman's assistant"	98190			
+"waterman at a cab rank"	98190			
+"tug's lad"	98190			
+"boatman"	98190			
+"fireman in steam vessel"	98220			
+"stoker in sugar house"	98220			
+"ship's stoker"	98220			
+"stoker"	98220			
+"steamship stoker"	98220			
+"steamboat stoker"	98220			
+"railway engine driver"	98320			
+"railway stoker"	98330			
+"railway fireman"	98330			
+"railway engine charger"	98330			
+"railway guard"	98420			
+"railway gatekeeper"	98430			
+"pointsman on north western railway"	98430			
+"signalman"	98430			
+"railway gate keeper"	98430			
+"railway signalman"	98430			
+"shunter"	98440			
+"railway shunter"	98440			
+"omnibus driver (deceased)"	98540			
+"omnibus driver"	98540			
+"cabdriver"	98620			
+"fly driver"	98620			
+"gentleman's coachman"	98620			
+"mail coachman"	98620			
+"wood carrier"	98620			
+"cabriolet coachman"	98620			
+"cabman"	98620			
+"carman"	98620			
+"undertaker's coachman"	98620			
+"coachdriver"	98620			
+"carrier's assistant"	98620			
+"coachman"	98620			
+"timber carman"	98620			
+"flyman"	98620			
+"omnibus coachman"	98620			
+"funeral coachman"	98620			
+"driver"	98620			
+"carman's assistant"	98620			
+"drayman"	98620			
+"carter"	98620			
+"coachman to job master"	98620			
+"van driver"	98620			
+"carriage driver"	98620			
+"stone carman"	98620			
+"coachman (domestic servant)"	98620			
+"gentlemans coachman"	98620			
+"cab driver"	98620			
+"brewer's drayman"	98620			
+"horse driver"	98620			
+"coal carman"	98620			
+"builder's carman"	98620			
+"coachman (deceased)"	98620			
+"market gardener's carman"	98620			
+"bricklayer's carman"	98620			
+"cabriolet driver"	98620			
+"assistant carman"	98620			
+"cab driver (deceased)"	98620			
+"carrier"	98620			
+"postilion"	98690			
+"postillion"	98690			
+"dock lockman"	98930			
+"gatekeeper"	98990			
+"cart minder"	98990			
+"labourer (royal dockyard)"	99910			
+"labourer at waterworks"	99910			
+"corn labourer"	99910			
+"dust carter"	99910			
+"builder's labourer"	99910			
+"washer"	99910			
+"paviour's labourer"	99910			
+"tar distiller's labourer"	99910			
+"labourer (candle works)"	99910			
+"sewer labourer"	99910			
+"dust contractor's labourer"	99910			
+"assistant turncock"	99910			
+"coal labourer"	99910			
+"turncock"	99910			
+"street sweeper"	99910			
+"labourer at soap factory"	99910			
+"platelayer"	99910			
+"mason's labourer"	99910			
+"brewer's labourer"	99910			
+"jobbing labourer"	99910			
+"firewood cutter"	99910			
+"gas workman"	99910			
+"stable labourer"	99910			
+"engineer's labourer"	99910			
+"ground labourer"	99910			
+"labourer at candle factory"	99910			
+"railway plate layer"	99910			
+"bone boiler"	99910			
+"garden labourer"	99910			
+"fire wood cutter"	99910			
+"labourer"	99910			
+"coal whipper"	99910			
+"shipworker"	99910			
+"gravedigger"	99910			
+"gas labourer"	99910			
+"labourer at engineer's"	99910			
+"firewood chopper"	99910			
+"rigger's labourer"	99910			
+"bricklayers labourer"	99910			
+"labourer at boiler factory"	99910			
+"saw mills labourer"	99910			
+"casual labourer"	99910			
+"stoker's labourer"	99910			
+"valve opener, gasworks"	99910			
+"bone turner"	99910			
+"plumber's labourer"	99910			
+"road labourer"	99910			
+"workman in woolwich arsenal"	99910			
+"labourer at hair factory"	99910			
+"workman in brewery"	99910			
+"book folder"	99910			
+"engine cleaner"	99910			
+"ground workman"	99910			
+"slater's labourer"	99910			
+"chemist's labourer"	99910			
+"labourer (deceased)"	99910			
+"brickfield labourer"	99910			
+"market garden labourer"	99910			
+"potter's labourer"	99910			
+"wharf labourer"	99910			
+"labourer at saw mills"	99910			
+"waterside labourer"	99910			
+"engine fitters labourer"	99910			
+"wine dealer's labourer"	99910			
+"labourer at rope ground"	99910			
+"labourer in brick fields"	99910			
+"ship worker"	99910			
+"glue maker's labourer"	99910			
+"labourer at rag merchant's"	99910			
+"sewer's labourer"	99910			
+"labourer at ironworks"	99910			
+"bricklayer's labourer (deceased)"	99910			
+"soap maker's labourer"	99910			
+"ship breaker's labourer"	99910			
+"labourer at gasworks"	99910			
+"labourer in iron yard"	99910			
+"railway platelayer"	99910			
+"dockyard lighter"	99910			
+"smiths labourer"	99910			
+"brickmaker's labourer"	99910			
+"contractor's labourer"	99910			
+"labourer royal arsenal"	99910			
+"labourer on water"	99910			
+"arsenal labourer"	99910			
+"plasterer's labourer"	99910			
+"crossing sweeper"	99910			
+"omnibus washer"	99910			
+"coppersmith's labourer"	99910			
+"oilman's labourer"	99910			
+"road scraper"	99910			
+"bleacher's labourer"	99910			
+"carpenter's labourer"	99910			
+"tanyard labourer"	99910			
+"chemical labourer"	99910			
+"labourer (brick fields)"	99910			
+"rope maker's labourer"	99910			
+"builders labourer"	99910			
+"lamp lighter"	99910			
+"rag sorter"	99910			
+"labourer h.m. dockyard"	99910			
+"labourer at distillery"	99910			
+"bricklayer's labourer"	99910			
+"stonemason's labourer"	99910			
+"iron founder's labourer"	99910			
+"coalheaver"	99910			
+"graver"	99910			
+"stevedore's labourer"	99910			
+"labourer in whitelead works"	99910			
+"labourer in gasworks"	99910			
+"labourer at a cement yard"	99910			
+"cooper's labourer"	99910			
+"collector of bones and rags"	99910			
+"factory labourer"	99910			
+"steam boiler maker's labourer"	99910			
+"bookfolder"	99910			
+"gaslighter"	99910			
+"labourer in iron trade"	99910			
+"glazier's labourer"	99910			
+"dustyard labourer"	99910			
+"shipyard labourer"	99910			
+"labourer (iron works)"	99910			
+"labourer in soap works"	99910			
+"labourer in brewery"	99910			
+"labourer at sugar house"	99910			
+"labourer at iron works"	99910			
+"stick dresser"	99910			
+"lamplighter"	99910			
+"labourer in ironworks"	99910			
+"labourer in lead factory"	99910			
+"dust sifter"	99910			
+"rag picker"	99910			
+"dustman"	99910			
+"coalwhipper"	99910			
+"coalbacker"	99910			
+"army worker"	99910			
+"general labourer"	99910			
+"labourer (dust yard)"	99910			
+"formerly a labourer"	99910			
+"gas factory labourer"	99910			
+"blacksmith's labourer"	99910			
+"workman in royal arsenal"	99910			
+"labourer at chemical works"	99910			
+"brewery workman"	99930			
+"wood grainer"	99999			
+"writing master"	99999			
+"sampler"	99999			
+"gasworks, storer"	99999			
+"map mounter"	99999			
+"staircase hand"	99999			
+"shell polisher"	99999			
+"mender at hoisery warehouse"	99999			
+"music smith"	99999			
+"theatrical property maker"	99999			
+"cupper"	99999			
+"ship scraper"	99999			
+"portmanteau maker"	99999			
+"no occupation"	99999			
+"colour moulder"	99999			
+"kiln man"	99999			
+"railway goods shipper"	99999			
+"chandelier mounter"	99999			
+"compensation balance maker"	99999			
+"viewer of stores"	99999			
+"mate"	99999			
+"unknown"	99999			
+"ironer"	99999			
+"assistant to a diver of a pil cutter steam engine"	99999			
+"pierhead man"	99999			
+"whitening moulder"	99999			
+"u"	99999			
+"finisher"	99999			
+"skin collector"	99999			
+"picture frame mounter"	99999			
+"ng"	99999			
+"seep"	99999			
+"manufacturer"	99999			
+"tea taster"	99999			
+"piercer"	99999			
+"canvas primer"	99999			
+"flourist"	99999			
+"machine ruler"				

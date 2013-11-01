@@ -1,0 +1,27 @@
+Dear Marco
+
+Please find attached an excel file with the HISCO codes that I have attributed to the occupational titles that were on the transcribed death certificates of 13,688 deaths recorded in London during the 1866 cholera epidemic. The data was not taken directly from the death certificates, but from published lists containing all the details from each death certificate (though the name of the deceased was withheld). The lists were published in the Registrar-General's Weekly Returns under the title: "Deaths from all causes in districts and sub-districts, registered during the week ending..." The first was produced for the week ending 11 August 1866, the last for 6 October 1866.
+
+The data were inputted as part of the 'Mortality in the Metropolis, 1860-1920' project. This project was based at the Centre for Metropolitan History, University of London and was funded by the Wellcome Trust.
+
+There were a total of 2,178 unique occupational titles (though this number includes spelling variants of the same occupation).
+
+I should underline that occupational history is not a specialism of mine. Where I have been unable to find a code that I think is suitable, I have given it a '99999', though there are only about 30 of these.
+
+I hope this is useful to you and that the codes find their way onto your website. I remember that you mentioned in Minneapolis that you had a file that can convert the HISCO codes into social class categories. If you can send that to me, that would be great. 
+
+Best wishes
+
+Graham
+
+Graham Mooney, PhD
+Institute of the History of Medicine
+Johns Hopkins University
+1900 East Monument St
+Baltimore
+MD 21205-2113
+USA
+Tel: 443-287-6147
+Fax: 410-502-6819
+http://www.hopkinsmedicine.org/graduateprograms/history_of_science/hmed/people/faculty-mooney.html
+
