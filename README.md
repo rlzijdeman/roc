@@ -1,4 +1,4 @@
 rocc
 ====
 
-R package for Occupational Coding and Classification
+R package for Occupational Classifications
