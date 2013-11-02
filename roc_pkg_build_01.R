@@ -17,22 +17,56 @@ hiscam_u1 <- data.table(read.table("./data/original/hiscam/hiscam_u1_v1_3.dat",
                         header = TRUE,
                         sep = "\t"), key = "hisco")
 
-roc <- function(hisco.data, classification, version, scale)
-  {
+
+## running into errors with duplicats in hiscam_u1
+dub.hisco <- subset(hiscam_u1$hisco,
+                    duplicated(hiscam_u1$hisco))
+
+
+
+hiscam_u1.sub <- subset(hiscam_u1,
+                    hiscam_u1$hisco %in% dub.hisco)
+## oops problematic: not just dupliates, but duplicate
+## hisco's with different values
+
+hiscamxls <- read.xlsx("./data/original/hiscam/hiscam_u1-3.xlsx",
+                       sheetName = "hiscam_u1-3.xls")
+
+
+write.table(hiscam_u1.sub, 
+            file = "./data/derived/hiscam_dbl_hisco_u1v1_3.dat",
+            row.names = FALSE,
+            col.names = TRUE)
+
+hiscam_unq <- subset(
+  hiscam_u1[order(hiscam_u1$hisco, hiscam_u1$hiscam)], 
+       !duplicated(hiscam_u1$hisco)) # keep duplicate hisco's w. smallest value
+tables()
+
+setkey(hiscam_unq, hisco)
+tables()
+
+
+rocc <- function(hisco.data, classification, version, scale)
+{
   version <- "1.3"
   scale   <- "U1"
   
   # convert to data.table
   hisco.data  <- data.table(hisco.data, key = "hisco")
-  hisco.data  <- merge(hisco.data,classification)
-  return(hisco.data)
-  }
+  hisco.data  <- merge(hisco.data,classification, all.x = T)
+  return(hisco.data$hiscam)
+  
+}
+rocc(mmetro, hiscam_unq)
+
+mmetro$hiscam_added <- rocc(mmetro,hiscam_unq)
 
 ## this returns a merged dataset, but
 ## - the object is not put in the workspace
 ## - it removes the non-merged values
 
-
+data.table()
 
 
 
