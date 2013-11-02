@@ -3,7 +3,9 @@
 # Author: richard.zijdeman@iisg.nl
 # Project: github / roc
 # Last Change: -
-
+## Nov 2, 2013: version 1 now contains information that shows that there are
+## duplicates in HISCAM. The file saves a file with unique hisco's only at the
+## end. Reading that file in version ric_pkg_build_02.R
 
 ## loading libraries ####
 library("data.table")
@@ -42,6 +44,11 @@ hiscam_unq <- subset(
   hiscam_u1[order(hiscam_u1$hisco, hiscam_u1$hiscam)], 
        !duplicated(hiscam_u1$hisco)) # keep duplicate hisco's w. smallest value
 tables()
+
+write.table(hiscam_unq, 
+            file = "./data/derived/hiscam_u1v1_3_unique_hisco.dat",
+            row.names = FALSE,
+            col.names = TRUE)
 
 setkey(hiscam_unq, hisco)
 tables()
